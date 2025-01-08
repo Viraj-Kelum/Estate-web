@@ -6,7 +6,7 @@ export const Header = () => {
   return (
     <div
       className="min-h-screen mb-4 bg-cover bg-center flex items-center w-full overflow-hidden"
-      style={{ backgroundImage: "url(/header_img.png)" }}
+      style={{ backgroundImage: "url('https://images.squarespace-cdn.com/content/v1/620e98be3282712d4493c4aa/27943df5-4c57-4514-98cd-0cabfbe8fffa/The+Residential+Advantage+Website+Elements+(6).jpg')" }}
       id="Header"
     >
       <Navbar />
